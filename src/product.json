@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "productTitle": "Plastic Chair",
+    "color": "Yellow",
+    "quality": "Average",
+    "designer": "Atik",
+    "price": "500",
+    "image": "https://i.ibb.co/k3Q3J7L/chair2.jpg"
+  },
+  {
+    "id": 2,
+    "productTitle": "Wooden Chair",
+    "color": "Wood Color",
+    "quality": "Average",
+    "designer": "Saad",
+    "price": "300",
+    "image": "https://i.ibb.co/f4gRXSw/chair3.jpg"
+  },
+  {
+    "id": 3,
+    "productTitle": "Foam Chair",
+    "color": "Wood Color",
+    "quality": "Good",
+    "designer": "Ali",
+    "price": "800",
+    "image": "https://i.ibb.co/fv4qHD9/chair4.jpg"
+  },
+  {
+    "id": 4,
+    "productTitle": "Walton AC 1",
+    "color": "White",
+    "quality": "Good",
+    "designer": "Walton BD",
+    "Ton": "1",
+    "price": "43000",
+    "image": "https://i.ibb.co/R4wk7sQ/ac1.jpg"
+  },
+  {
+    "id": 5,
+    "productTitle": "Walton AC 2",
+    "color": "White",
+    "quality": "Good",
+    "designer": "Walton BD",
+    "Ton": "2",
+    "price": "63000",
+    "image": "https://i.ibb.co/VtXv63n/ac2.jpg"
+  },
+  {
+    "id": 6,
+    "productTitle": "General AC 1",
+    "color": "White",
+    "quality": "Best",
+    "designer": "General Japan",
+    "Ton": "2",
+    "price": "43000",
+    "image": "https://i.ibb.co/ZBmcDgS/ac3.jpg"
+  },
+  {
+    "id": 7,
+    "productTitle": "Projector 1",
+    "color": "White",
+    "quality": "Best",
+    "designer": "General Japan",
+    "price": "45000",
+    "image": "https://i.ibb.co/H4w1W3r/projector1.jpg"
+  },
+  {
+    "id": 8,
+    "productTitle": "Projector 2",
+    "color": "White",
+    "quality": "Best",
+    "designer": "General Japan",
+    "price": "75000",
+    "image": "https://i.ibb.co/vzGfPBb/projector2.jpg"
+  },
+
+  {
+    "id": 9,
+    "productTitle": "Black Board",
+    "color": "Black",
+    "quality": "Good",
+    "designer": "Foysel",
+    "price": "9000",
+    "image": "https://i.ibb.co/VSPjbFd/blackbord.jpg"
+  },
+
+  {
+    "id": 10,
+    "productTitle": "White Board",
+    "color": "White",
+    "quality": "Good",
+    "designer": "Azam",
+    "price": "5000",
+    "image": "https://i.ibb.co/1GZQtPN/whitebord.jpg"
+  },
+
+  {
+    "id": 11,
+    "productTitle": "Multimedia Board",
+    "color": "Black",
+    "quality": "Best",
+    "designer": "SB Group",
+    "price": "64000",
+    "image": "https://i.ibb.co/tq2rGJ6/multimedia-bord.jpg"
+  }
+]

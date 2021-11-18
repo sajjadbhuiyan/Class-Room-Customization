@@ -1,0 +1,9 @@
+.cart-container {
+  text-align: center;
+  width: 20%;
+  height: auto;
+  border: 5px solid whitesmoke;
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px whitesmoke;
+  margin-right: 15px;
+}
